@@ -9,13 +9,16 @@
   "author": "xuming3 <xuming3@yiche.com>",
   "license": "MIT",
   "devDependencies": {
+    "gh-pages": "^0.12.0",
     "react-scripts": "^0.8.4"
   },
   "dependencies": {
+    "d3-scale": "^1.0.4",
+    "d3-selection": "^1.0.3",
     "react": "^15.4.1",
     "react-dom": "^15.4.1"
   },
-  "scripts":{
-  	"start":"react-scripts start"
+  "scripts": {
+    "start": "react-scripts start"
   }
 }
