@@ -1,0 +1,21 @@
+{
+  "name": "reactFractalsPro",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:xm94630/reactFractalsPro.git",
+    "type": "git"
+  },
+  "author": "xuming3 <xuming3@yiche.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "react-scripts": "^0.8.4"
+  },
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1"
+  },
+  "scripts":{
+  	"start":"react-scripts start"
+  }
+}
