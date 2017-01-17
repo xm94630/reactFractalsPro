@@ -18,7 +18,8 @@ class App extends Component{
 						            w={100}
 						            x={320-50}
 						            y={480-100}
-						            lvl={0} />
+						            lvl={0} 
+                                    maxlvl = {5} />
 					</svg>
 				</p>
 			</div>
